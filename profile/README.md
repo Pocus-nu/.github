@@ -1,12 +1,9 @@
-## Hi there 👋
+# Pocus.nu
 
-<!--
+Fritt material för fokuserat ultraljud (POCUS) i vården.
 
-**Here are some ideas to get you started:**
+## Material
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **[Pocus-kort](https://github.com/Pocus-nu/Pocus-kort)**: sex dubbelsidiga fickkort i A6 för POCUS hos vuxna, nämligen hjärta, lunga, buk, bukaorta och DVT. Korten finns som PDF för utskrift, som tryckfiler i PDF/X-4 och som redigerbart PowerPoint-original, under licensen CC BY 4.0.
+
+Korten är minnesstöd efter praktisk introduktion. De ersätter inte klinisk bedömning eller lokala rutiner.
